@@ -35,4 +35,3 @@
 
   - Es **obligatorio** tener **[Java 17](https://java.com/)** y **[Spring Boot](https://spring.io/)**.
   - Es **obligatorio** tener **[Git](https://git-scm.com/)** instalado y y configurado.
-  - Además, debe **tener** el **[IDE IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/)** instalado para abrir el backend.
