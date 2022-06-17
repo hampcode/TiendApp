@@ -19,7 +19,7 @@
 
 ## :bookmark: Sobre el Proyecto
 
-**Tutorial App** es una aplicación web destinada a permitir generar tutoriales con su registro de usuario e inicio de sesión.
+**TiendApp** es una aplicación web destinada a permitir registrar clientes, generar facturas e iniciar sesión.
 
 ## :rocket: Tecnologías Utilizadas
 
